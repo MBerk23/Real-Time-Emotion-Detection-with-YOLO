@@ -1,0 +1,5 @@
+runs/
+*.pt
+veri/
+fer2013/
+__pycache__/
